@@ -1,0 +1,11 @@
+Which language is known as the 'mother of all programming languages'?|C|Python|Java|Fortran|D
+What does 'HTML' stand for?|Hypertext Machine Language|Hypertext Markup Language|Hyper Transfer Markup Language|Hyper Tool Machine Language|B
+Which data structure uses FIFO (First In First Out)?|Stack|Queue|Array|Linked List|B
+Which keyword is used to define a constant variable in C++?|const|static|final|define|A
+What is the time complexity of binary search in a sorted array?|O(n)|O(log n)|O(n^2)|O(1)|B
+Which operator is used to access a pointer's value in C++?|.|&|*|->|C
+Which of the following is not a programming paradigm?|Functional Programming|Object-Oriented Programming|Dynamic Programming|Procedural Programming|C
+What does SQL stand for?|Structured Query Language|Sequential Query Language|Server Query Language|Standard Query Language|A
+What is the default value of an uninitialized `int` variable in C++?|0|Garbage Value|1|-1|B
+Which sorting algorithm has the worst-case time complexity of O(n^2)?|Merge Sort|Quick Sort|Bubble Sort|Heap Sort|C
+
